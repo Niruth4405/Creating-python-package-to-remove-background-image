@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: mymom
+Version: 0.3
+Requires-Dist: rembg
+Requires-Dist: Pillow
+Dynamic: requires-dist

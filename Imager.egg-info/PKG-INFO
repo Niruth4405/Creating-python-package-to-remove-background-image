@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: Imager
+Version: 0.2
+Requires-Dist: rembg
+Requires-Dist: Pillow
+Dynamic: requires-dist
