@@ -1,0 +1,7 @@
+README.md
+setup.py
+bg_remover.egg-info/PKG-INFO
+bg_remover.egg-info/SOURCES.txt
+bg_remover.egg-info/dependency_links.txt
+bg_remover.egg-info/requires.txt
+bg_remover.egg-info/top_level.txt
